@@ -1,1 +1,3 @@
-Programas disponíveis no canal AgoraVAI - agoravoceaprendeinvestir
+Programas do Canal AgoraVAI
+
+Programas em R e Python
