@@ -7,7 +7,8 @@ Teoria Moderna do Portfólio é um programa que trata desde o download de preço
 ATENÇÃO: Não se trata de recomendação e o autor do canal AgoraVAI e do programa, em referência, não se responsabiliza por eventuais perdas financeiras em decorrência do uso do programa. O investidor/usuário deve se reponsabilizar por entender os riscos reais envolvidos no processo.
 
 O vídeo explicativo do uso do programa da Teoria Moderna do Portfólio está no link: https://youtu.be/TCbxebMcx0Q
-================================================================================================================================================================
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 O programa em python de comparação entre o CDI e ativos negociados na bolsa de valores - ações, ETF e índices - mostra a evolução de CDI e a ação escolhida pelo CDI. Apresenta os percentuais de comparação entre os dois elementos e mostra a evolução de R$1,00 no período escolhido.
 
 O vídeo explicativo referente ao programa Comparação CDI X Ativos está no link: https://youtu.be/lcHjyvXmvDc
