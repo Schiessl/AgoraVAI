@@ -21,6 +21,11 @@ O programa em python para análise de Dividend Aristocrats. Calcula o preço jus
 
 O vídeo explicativo referente ao programa "Dividend Aristocrats: Gordon, Graham e análise no programa python" está no link: https://youtu.be/2YGWwUCcP-A
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+O programa em python para análise de uma possível lista de Dividend Aristocrats no mercado brasileiro. Além disso, calcula o preço justo de Gordon e Bazin e possibilita a análise de ativos de forma individualizada.
+
+O vídeo explicativo referente ao programa "Dividend Aristocrats: Gordon, Graham e análise no programa python" está no link: https://youtu.be/-8f6idb0J7g
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 **ATENÇÃO: Não se trata de recomendação e o autor do canal AgoraVAI e dos programas, em referência, não se responsabiliza por eventuais perdas financeiras em decorrência do uso do programa. O investidor/usuário deve se reponsabilizar por entender os riscos reais envolvidos no processo.**
